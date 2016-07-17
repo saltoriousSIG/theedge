@@ -15,7 +15,7 @@
     
     {% if page.background %}
     <style>
-            .page-head-bg { background-image: url(/assets/img/{{ page.background }}); }
+            .page-head-bg { background-image: url({{ site.baseurl }}/assets/img/{{ page.background }}); }
     </style>
 {% endif %}
 
