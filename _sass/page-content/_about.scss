@@ -1,0 +1,65 @@
+.container {
+    margin-top: 20px;
+}
+
+/* Carousel Styles */
+
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px
+}
+
+.carousel-control {
+    width: 0;
+}
+
+
+/* Carousel Header Styles */
+.header-text {
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+    color: #fff;
+}
+
+.header-text h2 {
+    font-size: 40px;
+}
+
+
+.about-carousel-font h2{
+    font-family: 'Pacifico', cursive;
+}
+.about-carousel-font h3{
+    font-family: 'Poiret One',cursive;
+}
+.about-carousel-font a{
+    color:navy;
+    font-family: 'Poiret One', cursive;
+    font-size: 30px
+}
+.about-carousel-font a:hover{
+    color:#cf4f0a;
+    text-decoration:none;
+    border: 2px dotted;
+    border-color: #ccc;
+}
+.fa-ctrl{
+    margin-top: 200px;
+}
+.ctrl-right{
+    margin-left: -60px;
+}
+.about-font h1{
+    font-family: 'Lobster Two',cursive;
+    font-size:55px;
+    text-decoration: underline;
+}
+.about-font p{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+}

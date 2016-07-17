@@ -1,0 +1,18 @@
+---
+---
+
+@import "normalize";
+@import "base/bootstrap.min";
+
+body{
+    background-color: #F5EE9E;
+}
+
+@import "homepage/landing-page";
+@import "page-content/contact-nav";
+@import "page-content/page-nav";
+@import "page-content/about";
+@import "page-content/services";
+@import "page-content/testimonials";
+@import "blog-content/blog";
+@import "base/footer";
