@@ -102,8 +102,7 @@
 }
 #references .jumbotron{
     border-radius: 30%;
-    background-color: #cf4f0a;
-    opacity: .4;
+    background-color: fade-out(#cf4f0a, 0.4);
 }
 
 
