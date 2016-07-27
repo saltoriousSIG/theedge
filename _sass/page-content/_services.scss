@@ -12,10 +12,9 @@
 }
 .display-move .img-responsive{
     border-radius: 50%;
-    height: 100px;
+    height: 150px;
     width: 150px;
-    margin-top: 0px;
-    
+
 }
 .display-move{
     &.development{
@@ -106,8 +105,9 @@
     background-color: fade-out(#cf4f0a, 0.4);
 }
 .logo-services{
-    height: 150px;
+    height: 100px;
     width: 150px;
+    margin-top: 0px;
 }
 
 
