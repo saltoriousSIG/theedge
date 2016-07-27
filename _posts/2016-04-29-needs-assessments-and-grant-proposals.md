@@ -5,7 +5,6 @@ meta: Anyone who works in the medical education field will no doubt have experie
 author: Helen Fosam
 date: April 29, 2016
 ---
-Needs Assessments and Grant Proposals: As Told by The Edge Medical Writing
 
 **Anyone who works in the medical education field will, no doubt, have experience dealing with writing needs assessments or grant proposals. In addition to helping organizations secure funding for Continuing Medical Education (CME), needs assessments are also used to further the development of content for CME programs.** Thanks to the high value that our society places on the advancement of medical education, you will find that there are companies and organizations willing to invest in medical education even during periods of economic downturns.  This is not to say, however, that writing needs assessments or proposals is easy – in fact, it’s a form of writing that can take years to master. Unless you or someone on your staff already has extensive experience with needs assessments and grant writing, outsourcing to experienced writers entirely focused on writing for the medical communication industry, is a smart move.  Once you've narrowed down your options for potential grants that you or your organization can qualify for, an experienced writer can take it from there. Such a writer can be found at The Edge Medical Writing, owned and operated by Dr. Helen Fosam. 
 
