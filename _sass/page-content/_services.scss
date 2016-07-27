@@ -63,6 +63,44 @@
     font-family: 'Lobster Two', cursive;
     font-size: 40px;
 }
+.client-thumb{
+    display: block;
+    background-size:cover;
+    width: 25%;
+    float: left;
+    position: relative;
+    
+    &:after{
+        content: '';
+        display: block;
+        padding-top: 70%;
+    }
+}
+.client-meta{
+    position: absolute;
+    background-color: fade-out(#275DAD, 0.3);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-family: 'Lobster', cursive;
+    color: #ccc;
+    padding: 10px;
+    transform: translate(50%, 100%) scale(.2);
+    transition: all 700ms ease-in-out;
+    opacity: 0;
+    
+    .client-name{
+        font-size: 18px;
+        text-decoration: underline;
+    }
+}
+.client-thumb:hover .client-meta{
+    opacity: 1;
+    transform: translate(0%, 0%) scale(1);
+
+}
+
 
 @media screen and (max-width:991px){
     
