@@ -35,6 +35,12 @@
     font-family: 'Lobster',cursive;
     color: #cf4f0a;
 }
+.navbar ul ul {
+    display: none;
+}
+.navbar ul li:hover ul{
+    display: block;
+}
 .navbar ul li ul{
     list-style-type: none;
     text-decoration: none;
