@@ -40,8 +40,10 @@
 }
 .navbar ul li:hover ul{
     display: block;
+    z-index: 1;
 }
 .navbar ul li ul{
     list-style-type: none;
     text-decoration: none;
+    z-index: 1;
 }
