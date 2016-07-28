@@ -38,6 +38,7 @@
 }
 .navbar ul ul {
     display: none;
+    position: absolute;
 }
 .navbar ul li:hover ul{
     display: block;
@@ -47,4 +48,7 @@
     list-style-type: none;
     text-decoration: none;
     z-index: 1;
+}
+.navbar ul ul li{
+    display: block;
 }
