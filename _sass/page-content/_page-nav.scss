@@ -40,6 +40,8 @@
     display: none;
     position: absolute;
     background-color: #cf4f0a;
+    border-color: #ccc;
+    border: 3px, solid;
 }
 .navbar ul li:hover ul{
     display: block;
@@ -50,7 +52,15 @@
     text-decoration: none;
     z-index: 1;
     font-size: 22px;
+    float: left;
 }
 .navbar ul ul li{
     display: block;
+}
+.navbar ul li ul a{
+    color #ccc;
+    
+}
+.navbar ul li ul a:hover {
+    color: black;
 }
