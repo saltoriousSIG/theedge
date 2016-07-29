@@ -1,6 +1,13 @@
 .page-nav{
     margin-top: 25px;
     height: 57px;
+    
+    .current{
+    background-color: #275DAD;
+    color: #4e4e4e;
+    height: 100%;
+    }
+
 }
 .logo-page{
     position: relative;
@@ -63,9 +70,4 @@
 }
 .navbar ul ul a:hover {
     color: black;
-}
-.current{
-    background-color: #275DAD;
-    color: #4e4e4e;
-    height: 100%;
 }
