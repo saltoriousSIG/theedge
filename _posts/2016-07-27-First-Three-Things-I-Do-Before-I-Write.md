@@ -14,28 +14,26 @@ If you’re involved in continuing medical education, then you already know how 
 
 I use several sources for all my writing projects, especially needs assessments, including online databases such as PubMed, reports from agencies such as the US Food and Drug Administration (FDA), National Comprehensive Cancer Network (NCCN), Centers for Disease Control and Prevention (CDC), and more. Disease specific societies and associations are also a great resource for accurate and useful information. Here is a more comprehensive, it is not an exhaustive capture all the possible sources, but provides you with a good start;
 
-*	Agency for Healthcare Research and Quality (AHRQ)
-*	AHRQ National Guideline Clearinghouse
-*	Bureau of the Census
-*	Bureau of Labor Statistics
-*	CDC National Center for Health Statistics
-*	CDC’s NCHS Health Interview Survey
-*	CDC’s NCHS National Health and Nutrition Examination Survey
-*	Centers for Medicare & Medicaid Services
-*	Child Stats.gov
-*	Cochrane Collaboration
-*	Comparing Health Care Quality: A National Directory - Robert Wood 
-*	Community Health Status Indicators - CHSI
-*	data.medicare.gov
-*	FastStats from the Centers for Disease Control and Prevention (CDC) 
-*	FedStats – Your Window Into U.S. Federal Statistics
-*	Healthy People.gov
-*	Hospital Compare, (DHHS)
-*	Institute for Healthcare Improvement
-*	Medicare.gov 
-*	Quality Check, from the Joint Commission
-*	State Health Facts.org – The Kaiser Family Foundation
-*	U.S. Food and Drug Administration
-*	U.S. National Library of Medicine, National Institutes of Health
+*	[Agency for Healthcare Research and Quality (AHRQ)](http://www.ahrq.gov)
+*	[AHRQ National Guideline Clearinghouse](http://www.ahrq.gov)
+*	[Bureau of the Census](http://www.census.gov)
+*	[Bureau of Labor Statistics](http://www.bls.gov)
+*	[CDC National Center for Health Statistics](http://www.cdc.gov/nchs/%22%20%5Ct%20%22_blank)
+*	[CDC’s NCHS Health Interview Survey](http://www.cdc.gov/nchs/nhis/index.htm)
+*	[CDC’s NCHS National Health and Nutrition Examination Survey](http://www.cdc.gov/nchs/nhanes/index.htm)
+*	[Centers for Medicare & Medicaid Services](https://www.cms.gov)
+*	[Child Stats.gov](http://www.childstats.gov)
+*	[Cochrane Collaboration](http://www.cochrane.org)
+*	[Comparing Health Care Quality: A National Directory - Robert Wood](http://www.rwjf.org/en/library/research/2013/09/national-directory.html) 
+*	[Community Health Status Indicators - CHSI](http://wwwn.cdc.gov/communityhealth)
+*	[FastStats from the Centers for Disease Control and Prevention (CDC)](http://www.cdc.gov)
+*	[FedStats – Your Window Into U.S. Federal Statistics](https://fedstats.sites.usa.gov)
+*	[Healthy People.gov](https://www.healthypeople.gov/2020/topics-objectives)
+*	[Hospital Compare, (DHHS)](https://www.medicare.gov/hospitalcompare/search.html?&AspxAutoDetectCookieSupport=1)
+* [Medicare.gov](https://www.medicare.gov/hospitalcompare/search.html?&AspxAutoDetectCookieSupport=1)
+*	[Quality Check, from the Joint Commission](https://www.qualitycheck.org)
+*	[State Health Facts.org – The Kaiser Family Foundation](http://kff.org/statedata/)
+*	[U.S. Food and Drug Administration](http://fda.org/index.php)
+*	[U.S. National Library of Medicine, National Institutes of Health](https://www.nlm.nih.gov/nlmhome.html)
 
 All in all, the worst thing you can do when writing a technical report or a needs assessment is to lose focus of the target audience and the ultimate goal. I’ve been writing for medical education for several years, and after reviewing all the facts that I have to work with, can offer expert guidance and writing that is comprehensive, balanced and focused. For more information on The Edge Medical Writing and the type of technical writing services we provide, contact The Edge Medical Writing today. (Tel. 609 273 6019; hfosam@theedgemedicalwriting.com).
