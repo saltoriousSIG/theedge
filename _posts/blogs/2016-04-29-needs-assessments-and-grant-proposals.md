@@ -4,6 +4,7 @@ title: Needs Assessment and Grant Proposals
 meta: Anyone who works in the medical education field will no doubt have experience dealing with writing needs assessments and grant proposals. In addition to helping organizations secure funding for Continuing Medical Education (CME)...
 author: Helen Fosam
 date: April 29, 2016
+category: blogs
 ---
 
 **Anyone who works in the medical education field will, no doubt, have experience dealing with writing needs assessments or grant proposals. In addition to helping organizations secure funding for Continuing Medical Education (CME), needs assessments are critical to the development of content for CME programs.** Thanks to the high value that our society places on the advancement of medical education, even when the economy is in a slump, organizations will continue to invest in CME as long as educational programs can demonstrate value for money. 
