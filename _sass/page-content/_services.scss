@@ -66,14 +66,14 @@
 .client-thumb{
     display: block;
     background-size:cover;
-    width: 25%;
+    width: 27%;
     float: left;
     position: relative;
     
     &:after{
         content: '';
         display: block;
-        padding-top: 70%;
+        padding-top: 90%;
     }
 }
 .client-meta{
