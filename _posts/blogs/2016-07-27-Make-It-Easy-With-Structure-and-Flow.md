@@ -6,7 +6,7 @@ author: Helen Fosam
 date: July 27, 2016
 category: blogs
 ---
-![blog-3-image]({{ site.baseurl }}/assets/img/blog3-pic.png)
+![blog-3-image](/assets/img/blog3-pic.png)
 
 **Technical writing, such as scientific writing, content for medical education, as well as needs assessments and proposals, is not simply throwing relevant facts and figures onto a page, with the hope that the reader will figure out your key message.**  Like a well written novel, structure and flow are important, to provide a framework, focus, and to seamlessly connect your argument to provide information or present a compelling story. That story of course could be an explanation of how a new agent improves clinical outcomes, or a needs assessment to justify funding for physician education. Whatever your ‘story’, unlike the word cloud depicted, it is important to organize your writing such that the reader can easily follow your thought process, argument, and case. Consequently, your writing should follow a logical progression, organized such that it flows and makes a clear compelling read, from start to finish.
 
