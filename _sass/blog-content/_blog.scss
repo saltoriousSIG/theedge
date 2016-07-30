@@ -211,5 +211,11 @@ img[alt=blog-nigeria-image]{
 }
 .blog-header a{
   font-family: 'Poiret One', cursive;
-  font-size: 40px;
+  font-size: 35px;
+  color: #cf4f0a;
+}
+.blog-header a:hover{
+  color: #ccc;
+  border: 2px dotted;
+  border-color: #ccc;
 }
