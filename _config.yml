@@ -15,3 +15,5 @@ baseurl: /theedge
 
 # Build settings
 markdown: kramdown
+include: ['.htaccess']
+
