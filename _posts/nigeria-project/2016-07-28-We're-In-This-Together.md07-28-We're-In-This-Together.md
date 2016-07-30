@@ -21,7 +21,12 @@ Interesting, I thought. How can that be? Here in the US practice of medicine is 
 My bug has taken hold. I have found my calling. For the past 8 months, I have worked with John. Together, but largely credited to John’s initiative and contacts, we now have commitment from a formidable team of talent from the United States, India, and Nigeria to develop and teach CPD at no cost to Nigerian healthcare professionals. This team include consultants from the Kokilabh Dhirubhai Ambani Hospital who will provide teaching and the telemedicine service, consultants from Nigeria with knowledge of the challenges and local custom, a US-based academic institution, experienced fundraiser, and outcomes researcher. With my experience in planning, developing CME, and writing grants, I got down to work on grant applications, including approaching the Nigerian Federal Government for support and endorsement of our efforts. Grant writing can be an arduous, and sometimes unrewarding process. By Western standards, Nigeria is not a rich country, and diverting money to CPD programs so that doctors can attend for free is low on the priorities list, and few companies based in Nigeria are able to provide financial support for this initiative to the level needed. To make this happen, donations and international support are needed. We have on board an incredible team of talent, whose goal is to help a country address one of its several problems.  
 We will continue our efforts to secure funding for our initial pilot CPD program in Nigeria. To learn more about our initiative, contact Helen Fosam (609 273 6019; hfosam@theedgemedicalwriting.com) or Renee Ebert (communityfundraising16@gmail.com).
 Helen Fosam, PhD is a medical writer at The Edge Medical Writing. Dr. Fosam completed her PhD and post doctorate research (Physiology) at Sheffield University, UK, and has published widely in peer-reviewed journals. For more information, contact The Edge Medical Writing. (Tel. 609 273 6019; hfosam@theedgemedicalwriting.com).
+
+
+
 ![blog-nigeria-image](/assets/img/nigeria-blog-img-3.png)
+
+
 Renee Ebert, MPH provides professional support for public health project funding and program coordination, including USAID project. Ms. Ebert completed her Master’s Degree in Public Health- Community Health Science/Health Services degree at UCLA with emphasis on innovative telehealth/telemedicine satellite technology for distance learning. For more information contact Ms. Ebert (communityfundraising16@gmail.com).
 
 
