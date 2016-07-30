@@ -4,6 +4,7 @@ title: Make it easy with structure and flow
 meta: To be good at writing technical reports, including needs assessments, grant proposals, and content for continuing medical education, you really have to put yourself in the mindset of a fine chef.
 author: Helen Fosam
 date: July 27, 2016
+category: blogs
 ---
 ![blog-3-image]({{ site.baseurl }}/assets/img/blog3-pic.png)
 
