@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: We're In This Together
-meta:
+meta: My interest in the sciences, research, and medicine led me on a career path in medical education.  I have been on this path for the past 15 years.
 author: Helen Fosam
 date: July 28 2016
 category: nigeria-project
