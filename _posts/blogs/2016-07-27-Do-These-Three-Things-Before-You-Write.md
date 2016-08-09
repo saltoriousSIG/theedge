@@ -6,7 +6,7 @@ author: Helen Fosam
 date: July 27, 2016
 category: blogs
 ---
-**To be good at writing technical reports, including needs assessments, grant proposals, and content for continuing medical education, you really have to put yourself in the mindset of a fine chef.** A chef doesn’t throw ingredients into a dish without a plan ‑ at least not the kind of chef you would want preparing your meal. What separates the talented from the amateur is the ability to curate the finest ingredients and know how to use those ingredients to produce tastes and flavors that dance across the palette. 
+**1. Preparation. 2. Preparation. 3. Preparation. To be good at writing technical reports, including needs assessments, grant proposals, and content for continuing medical education, you really have to put yourself in the mindset of a fine chef.** A chef doesn’t throw ingredients into a dish without a plan ‑ at least not the kind of chef you would want preparing your meal. What separates the talented from the amateur is the ability to curate the finest ingredients and know how to use those ingredients to produce tastes and flavors that dance across the palette. 
 
 As an experienced writer, I produce high quality content for medical education based on well-crafted needs assessments through my service at The Edge Medical Writing. Before I start any writing project, I take the time to assemble the finest ingredients in the form of well-sourced facts and figures so I can draft the best possible needs assessment for your organization.
 
