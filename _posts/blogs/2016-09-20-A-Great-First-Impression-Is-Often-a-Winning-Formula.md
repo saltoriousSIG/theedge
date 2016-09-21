@@ -9,7 +9,7 @@ category: blogs
 
 ![blog-nigeria-image-1](/assets/img/blog-5-img.png)
 
-Some decisions, including grant applications, can be made on the strength of the executive summary. It’s a bit like making a great first impression. Remember, reviewers are very busy; they may have several similar proposals to read, and possibly have enough time to read only the first page. Therefore, the executive summary is potentially one of the most valuable sections of your proposal. 
+**Some decisions, including grant applications, can be made on the strength of the executive summary. It’s a bit like making a great first impression. Remember, reviewers are very busy; they may have several similar proposals to read, and possibly have enough time to read only the first page.** Therefore, the executive summary is potentially one of the most valuable sections of your proposal. 
 
 In a nutshell, the executive summary should say it all. So what should, and should not be in the executive summary? Definitely, it is not simply a tweaked and condensed version of your entire proposal.  It should however, build a persuasive case focusing on solutions to a problem, such that it grabs attention, builds interest to learn more, and ultimately, is deserving of being approved. Remember, reviewers don’t have time to read through lengthy documents, so try to keep the executive summary to between half a page to one page long, unless specific instructions on length is provided. 
 
