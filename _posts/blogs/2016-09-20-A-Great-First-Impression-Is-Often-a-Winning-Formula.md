@@ -6,3 +6,5 @@ author: Helen Fosam
 date: September 15, 2016
 category: blogs
 ---
+
+![blog-nigeria-image-1](/assets/img/blog-5-img.png)
