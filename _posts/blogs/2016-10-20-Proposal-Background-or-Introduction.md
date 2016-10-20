@@ -7,7 +7,7 @@ date: October 20, 2016
 category: blogs
 ---
 
-![blog-3-img](assets/img/blog-6-pic.png)
+![blog-3-img](theedge/assets/img/blog-6-pic.png)
 
 
 Proposal Background Or Introduction -- Capture Attention With A Great Opening
