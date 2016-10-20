@@ -7,10 +7,11 @@ date: October 20, 2016
 category: blogs
 ---
 
+![blog-3-img](assets/img/blog-6-pic.png)
+
 
 Proposal Background Or Introduction -- Capture Attention With A Great Opening
 
-![blog-3-img](assets/img/blog-6-pic.png)
 
 **Do you like freestyle, as in freestyle dancing? The technique, organization, and finish is entirely up to you. Generally, the dancer with the best combination of moves to fit the theme, often attract the most attention.**
 
