@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: Proposal Background Or Introduction.
-meta: Do you like freestyle, as in freestyle dancing? The technique, organization, and finish is entirely up to you.
+title: The Gap Analysis -- Bridging The Divide
+meta: First of all, let’s be clear on terminology. 
 author: Helen Fosam
-date: October 20, 2016
+date: November 24 2016
 category: blogs
 ---
-**Proposal Background Or Introduction -- Capture Attention With A Great Opening**
+**The Gap Analysis -- Bridging The Divide**
 
-![blog-3-img](/assets/img/blog-6-pic.png)
+![blog-3-img](/assets/img/blog-7-pic.png)
