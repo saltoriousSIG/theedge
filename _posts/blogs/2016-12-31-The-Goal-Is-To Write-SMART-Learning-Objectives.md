@@ -7,6 +7,8 @@ date: December 31, 2016
 category: blogs
 ---
 
+![blog-3-img](/assets/img/blog-8-img.png)
+
 The learning objective states the intended outcome after learners have participated in an activity. Learning objectives should not be written as a goal to be attained in the future, but rather as a statement of what learners are immediately expected to be able to do. 
 
 Learning objectives must be SMART (specific, measurable, attainable, relevant and timely), and directly linked to addressing the gaps identified in the gap analysis. Use good action verbs such as “explain,” “integrate”, “describe,” “discuss,” “assess,” “determine,” “analyze,” “differentiate”. Avoid non-action verbs such as “understand,” “know,” “learn.” Bloom’s Taxonomy of Measurable Verbs located here provides excellent action words for different stages of learning. Learning objectives should be written such that it address the question “What is measurable that learners will be able to do after their participation in the activity?” For example, “consistently integrate routine measurement of C-reactive protein during diagnostic evaluation of patients with early rheumatoid arthritis”. 
