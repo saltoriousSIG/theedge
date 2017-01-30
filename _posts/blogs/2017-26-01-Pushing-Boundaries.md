@@ -6,7 +6,7 @@ author: Helen Fosam
 date: January 26, 2017
 category: blogs
 ---
-2017 - Pushing Boundaries Beyond My Comfort Zone
+**2017 - Pushing Boundaries Beyond My Comfort Zone**
 
 January of every year is a month I equate with new beginnings, new goals and a fresh start. Every year in January, I set my goals for the subsequent 11 months, which typically include improving the quality of the services I provide to my clients, and addressing shortfalls based on outcome of survey I conduct with my clients. My goal setting also includes looking for ways to work better and smarter, but always staying within my comfort zone of expertise. I believe that doing so will keep me focused, and in so doing keep my expertise clearly defined. 
 
