@@ -1,4 +1,10 @@
 ---
+layout: blog
+title: Pushing Boundaries. 
+meta: January of every year is a month I equate with new beginnings, new goals and a fresh start.
+author: Helen Fosam
+date: January 26, 2017
+category: blogs
 ---
 2017 - Pushing Boundaries Beyond My Comfort Zone
 
